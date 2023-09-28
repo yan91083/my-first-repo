@@ -1,0 +1,1 @@
+Working directory, staging area, committed files, remote repository
